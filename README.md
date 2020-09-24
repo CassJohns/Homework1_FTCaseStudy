@@ -3,8 +3,7 @@ FinTech Case Study - Figure
 # **Using Technology to *Figure* out Real Estate Lending**
 ## *Figure was founded in  2018 and uses blockchain technology to streamline financial services, specifically real estate lending.  The company started with a home equity loan product and has since expanded into mortgage refinance, licensing a loan origination system, a loan marketplace, asset securitization and private fund services, all utilizing its Provenance blockchain.* 
 
-
-![Logo](https://www.figure.com/)
+![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.glassdoor.com%2Fcompanyupdate%2Fw300%2F2025233%2Ffigure-companyupdate-1575587363380.jpg&imgrefurl=https%3A%2F%2Fwww.glassdoor.com%2FUpdates%2FFigure-Company-Updates-E2025233.htm&tbnid=P14Ro6jhOaq-tM&vet=12ahUKEwi4-aCo64DsAhUZgFkKHQwhCLwQMygIegUIARClAQ..i&docid=qY41JruR-IfevM&w=300&h=157&itg=1&q=figure%20lending&ved=2ahUKEwi4-aCo64DsAhUZgFkKHQwhCLwQMygIegUIARClAQ)
 
 [Figure's Website](https://www.figure.com/)
 
